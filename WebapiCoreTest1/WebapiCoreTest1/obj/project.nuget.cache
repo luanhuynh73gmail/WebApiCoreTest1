@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+do7QznOmeE=",
+  "dgSpecHash": "W6U1I8FV5sA=",
   "success": true,
-  "projectFilePath": "C:\\LuanHuynh\\Projects\\WebapiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1.csproj",
+  "projectFilePath": "C:\\Users\\Luan Huynh\\source\\repos\\WebApiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luan Huynh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "C:\\Users\\Luan Huynh\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",

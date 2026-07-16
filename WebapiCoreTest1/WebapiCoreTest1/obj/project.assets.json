@@ -463,11 +463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LuanHuynh\\Projects\\WebapiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1.csproj",
+      "projectUniqueName": "C:\\Users\\Luan Huynh\\source\\repos\\WebApiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1.csproj",
       "projectName": "WebapiCoreTest1",
-      "projectPath": "C:\\LuanHuynh\\Projects\\WebapiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1.csproj",
+      "projectPath": "C:\\Users\\Luan Huynh\\source\\repos\\WebApiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1.csproj",
       "packagesPath": "C:\\Users\\Luan Huynh\\.nuget\\packages\\",
-      "outputPath": "C:\\LuanHuynh\\Projects\\WebapiCoreTest1\\WebapiCoreTest1\\obj\\",
+      "outputPath": "C:\\Users\\Luan Huynh\\source\\repos\\WebApiCoreTest1\\WebapiCoreTest1\\WebapiCoreTest1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
